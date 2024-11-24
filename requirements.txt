@@ -1,0 +1,6 @@
+gensim==4.3.2
+jieba==0.42.1
+matplotlib==3.8.4
+openai==1.55.0
+scikit_learn==1.4.2
+zhipuai==1.0.7
